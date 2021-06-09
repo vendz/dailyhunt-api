@@ -25,7 +25,6 @@ This API supports category wise news. Here is a complete list of all categories.
 
 ## Usage
 
----
 see all the available categories
 ```
 https://dailyhunt.vandit.cf/categories
