@@ -73,8 +73,8 @@ Example - https://dailyhunt.vandit.cf/dailyhunt?category=technology&lang=hindi&i
 
 ### Default values of the parameters:
 
-    - Language = english
-    - items = 10
+    Language = english
+    items = 10
 
 ---
 
