@@ -49,7 +49,7 @@ def languages():
 def news():
     if request.method == 'GET':
         category = request.args.get('category')
-        language = request.args.get('language')
+        language = request.args.get('lang')
         items = request.args.get('items')
         return jsonify(getNews(language, category, items))
 
